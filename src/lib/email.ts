@@ -535,7 +535,7 @@ export async function sendApplicationSubmittedEmail({
   toEmail,
   studentName,
   applicationId,
-  whatsappGroupUrl = "https://chat.whatsapp.com/GDGoCSVEC2026",
+  whatsappGroupUrl = "https://chat.whatsapp.com/JI2Cn1JPTc41WRJoWHMu2K",
 }: {
   toEmail: string;
   studentName: string;
